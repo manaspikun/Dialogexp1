@@ -24,4 +24,35 @@
         android:textSize="25sp"
         android:gravity="center"
         android:id="@+id/button2"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="show date picker dialog"
+        android:textSize="25sp"
+        android:gravity="center"
+        android:id="@+id/button3"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:layout_marginTop="100dp"
+        android:textColor="#000"
+        android:id="@+id/textview1"
+        android:gravity="center"
+        android:text="selected date is:"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="show date time picker dialog"
+        android:textSize="25sp"
+        android:gravity="center"
+        android:id="@+id/button4"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="show date time picker dialog"
+        android:textSize="25sp"
+        android:gravity="center"
+        android:id="@+id/button5"/>
+
 </LinearLayout>
